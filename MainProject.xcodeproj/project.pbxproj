@@ -11,6 +11,7 @@
 		7A28008C27E06E8300F5854B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A28008B27E06E8300F5854B /* ContentView.swift */; };
 		7A28008E27E06E8400F5854B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A28008D27E06E8400F5854B /* Assets.xcassets */; };
 		7A28009127E06E8400F5854B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A28009027E06E8400F5854B /* Preview Assets.xcassets */; };
+		7A28009827E0703C00F5854B /* MyColorPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A28009727E0703C00F5854B /* MyColorPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7A28008B27E06E8300F5854B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7A28008D27E06E8400F5854B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A28009027E06E8400F5854B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7A28009727E0703C00F5854B /* MyColorPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyColorPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7A28008927E06E8300F5854B /* MainProjectApp.swift */,
 				7A28008B27E06E8300F5854B /* ContentView.swift */,
+				7A28009727E0703C00F5854B /* MyColorPicker.swift */,
 				7A28008D27E06E8400F5854B /* Assets.xcassets */,
 				7A28008F27E06E8400F5854B /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A28008C27E06E8300F5854B /* ContentView.swift in Sources */,
+				7A28009827E0703C00F5854B /* MyColorPicker.swift in Sources */,
 				7A28008A27E06E8300F5854B /* MainProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
